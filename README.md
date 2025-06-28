@@ -1,7 +1,5 @@
 # Ecommerce-Sales-Analysis-Dashboard
 
-# Ecommerce-Sales-Analysis-Dashboard
-
 # Objective of the Project:
 
 To analyze sales performance of an eCommerce business using Excel by building an interactive dashboard that helps stakeholders make data-driven decisions.
